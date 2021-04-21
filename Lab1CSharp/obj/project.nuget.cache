@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzcxTX3jE0f2/MRQ3Q/SbTpuD8DaRszoUCOKq5yeLbyA1d/bD/pO9KLsx5+kVeNKHUfub8NGF9S4Kc2xVdXPXA==",
+  "success": true,
+  "projectFilePath": "/home/andrei/GitHubPersonal/CSharpGtk/Lab1CSharp/Lab1CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/andrei/.nuget/packages/atksharp/3.24.24.4/atksharp.3.24.24.4.nupkg.sha512",
+    "/home/andrei/.nuget/packages/cairosharp/3.24.24.4/cairosharp.3.24.24.4.nupkg.sha512",
+    "/home/andrei/.nuget/packages/gdksharp/3.24.24.4/gdksharp.3.24.24.4.nupkg.sha512",
+    "/home/andrei/.nuget/packages/giosharp/3.24.24.4/giosharp.3.24.24.4.nupkg.sha512",
+    "/home/andrei/.nuget/packages/glibsharp/3.24.24.4/glibsharp.3.24.24.4.nupkg.sha512",
+    "/home/andrei/.nuget/packages/gtksharp/3.24.24.4/gtksharp.3.24.24.4.nupkg.sha512",
+    "/home/andrei/.nuget/packages/gtksharp.dependencies/1.1.0/gtksharp.dependencies.1.1.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/microsoft.netcore.platforms/6.0.0-preview.2.21154.6/microsoft.netcore.platforms.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/microsoft.win32.systemevents/6.0.0-preview.2.21154.6/microsoft.win32.systemevents.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/mono.data.sqlite/1.0.61/mono.data.sqlite.1.0.61.nupkg.sha512",
+    "/home/andrei/.nuget/packages/mono.data.sqlite.core/1.0.61.1/mono.data.sqlite.core.1.0.61.1.nupkg.sha512",
+    "/home/andrei/.nuget/packages/mono.data.sqlite.portable/1.0.3.5/mono.data.sqlite.portable.1.0.3.5.nupkg.sha512",
+    "/home/andrei/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/andrei/.nuget/packages/pangosharp/3.24.24.4/pangosharp.3.24.24.4.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.configuration.abstractions/2.0.2.45/system.configuration.abstractions.2.0.2.45.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.configuration.configurationmanager/6.0.0-preview.2.21154.6/system.configuration.configurationmanager.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.drawing.common/6.0.0-preview.2.21154.6/system.drawing.common.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.accesscontrol/6.0.0-preview.2.21154.6/system.security.accesscontrol.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.cryptography.protecteddata/6.0.0-preview.2.21154.6/system.security.cryptography.protecteddata.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.permissions/6.0.0-preview.2.21154.6/system.security.permissions.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.security.principal.windows/6.0.0-preview.2.21154.6/system.security.principal.windows.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "/home/andrei/.nuget/packages/system.windows.extensions/6.0.0-preview.2.21154.6/system.windows.extensions.6.0.0-preview.2.21154.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Mono.Data.Sqlite 1.0.61' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Mono.Data.Sqlite",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Mono.Data.Sqlite.Portable 1.0.3.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Mono.Data.Sqlite.Portable",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
